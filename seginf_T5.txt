@@ -1,0 +1,12 @@
+O que é criptografia? = E a tecnologia de pegar uma informação legível pelo ser humano e transformar em uma informação ilegível e depois reverter para o legível novamente.
+
+Qual é a finalidade da criptografia na segurança da informação? = Proteger informações para trazer segurança as operações na internet.
+
+Cite um exemplo de uso comum da criptografia no cotidiano. = Uso nas redes sociais, transações bancarias.
+
+Explique a diferença entre criptografia simétrica e criptografia assimétrica. Quais são as vantagens e desvantagens de cada abordagem?
+   Simétrica são utilizadas a mesma criptografia para encriptação e decriptação.
+   Assimétrica são disponibilizadas duas criptografias diferentes uma para cada etapa.
+
+Descreva o que é uma chave de criptografia e por que é importante para garantir a segurança dos dados criptografados.
+   E uma tecnologia que nós dias atuais e fundamental para garantir a segurança e privacidade de informações e dados, algo fundamental no meio digital.
